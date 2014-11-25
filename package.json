@@ -1,0 +1,17 @@
+{
+  "name": "splunk-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "splunkstorm": "^1.1.0",
+    "zetta": "git://github.com/zettajs/zetta#fix-peer-connection",
+    "zetta-mock-led-driver": "^0.7.1",
+    "zetta-photocell-mock-driver": "^0.4.0"
+  }
+}
